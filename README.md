@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img height="160px" art="Mapleafgo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mapleafgo&show_icons=true&theme=vue-dark&&count_private=true&hide_title=true" />
   </a>
   <a href="https://github.com/mapleafgo" >
-    <img height="160px" art="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapleafgo&layout=compact&hide=c%2B%2B&theme=vue-dark" />
+    <img height="160px" art="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapleafgo&layout=compact&hide=c%2B%2B,cmake&theme=vue-dark" />
   </a>
 </div>
 
