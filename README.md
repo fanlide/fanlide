@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mapleafgo&show_icons=true&theme=vue-dark&&count_private=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleafgo&layout=compact&theme=vue-dark)
+<div>
+  <a href="https://github.com/mapleafgo/mapleafgo" >
+    <img height="170px" art="Mapleafgo's Github Starts" src="https://github-readme-stats.vercel.app/api?username=mapleafgo&show_icons=true&theme=vue-dark&&count_private=true&hide_title=true" />
+  </a>
+  <a href="https://github.com/mapleafgo/mapleafgo" >
+    <img height="170px" art="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapleafgo&layout=compact&theme=vue-dark" />
+  </a>
+</div>
 
